@@ -218,6 +218,8 @@ In the example usage, the code generates 5 text samples based on the input promp
 
 Note: This code assumes that you have already installed the `torch` and `transformers` libraries. If not, you can install them using `pip install torch transformers`.
 
+# Object Detection 
+
 ```python
 import cv2
 import numpy as np
