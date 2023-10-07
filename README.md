@@ -7,7 +7,7 @@ Innovating neural interfaces and cognitive augmentation beyond imagination.
 - [UltraNeuroInnovator Technologies](#technologies)
 - [Challenges](#our-challenges)
 - [Tutorial](#tutorials)
-- [Depok Project](#
+- [Deploy Project](#deploying-a-project-on-red-hat-openShift-or-kubernetes) 
 
 # Description 
 
