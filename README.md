@@ -7,7 +7,7 @@ Innovating neural interfaces and cognitive augmentation beyond imagination.
 - [UltraNeuroInnovator Technologies](#technologies)
 - [Challenges](#our-challenges)
 - [Tutorial](#tutorials)
-- [Deploy Project](#deploying-a-project-on-red-hat-openShift-or-kubernetes) 
+- [Deploying A Project On Red Hat OpenShift Or Kubernetes](#deploying-a-project-on-red-hat-openshift-or-kubernetes) 
 
 # Description 
 
