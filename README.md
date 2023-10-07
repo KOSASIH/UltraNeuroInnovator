@@ -10,7 +10,8 @@ Innovating neural interfaces and cognitive augmentation beyond imagination.
 - [Challenges](#our-challenges)
 - [Tutorial](#tutorials)
 - [Deploying Project On Red Hat OpenShift Or Kubernetes](#deploying-project-on-red-hat-openshift-or-kubernetes)
-- [Our Roadmap](#our-roadmap) 
+- [Our Roadmap](#our-roadmap)
+- [Aknowledgement](aknowledgement.md) 
 
 # Description 
 
