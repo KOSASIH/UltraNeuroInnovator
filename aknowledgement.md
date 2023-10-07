@@ -22,10 +22,6 @@ We extend our heartfelt gratitude to all the individuals and organizations who h
 
 10. **The Entire Neural Science Community:** We acknowledge the collective efforts of the global neural science and technology community, as your contributions continue to shape the landscape of possibility.
 
-Acknowledgment
-
-In addition to the invaluable contributions mentioned earlier, we wish to extend our appreciation to an even broader spectrum of individuals, partners, and communities who have played an essential role in the growth and impact of UltraNeuroInnovator. We recognize and thank:
-
 11. **Families and Loved Ones:** The families and loved ones of our team members, whose unwavering support and understanding have been the bedrock of our dedication and determination.
 
 12. **Pioneers in Neural Science:** The pioneers in the field of neural science and technology, whose groundbreaking work has paved the way for our innovations.
@@ -56,6 +52,6 @@ This journey would not have been possible without your collective dedication, ex
 
 10 October 2023 
 
-[KOSASIH](
+[KOSASIH](https://www.linkedin.com/in/kosasih-81b46b5a?trk=contact-info) 
 
-Creator Of UltraNeuroInnovator
+Owner and Creator Of UltraNeuroInnovator
